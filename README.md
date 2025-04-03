@@ -50,6 +50,7 @@ python run.py
 
 ## Project Structure 🗂️
 
+```bash
 ai_trading_bot/
 ├── data/                # Data pipeline
 │   ├── fetcher.py       # Live data collection
@@ -62,6 +63,7 @@ ai_trading_bot/
 │   ├── alerts.py        # Telegram notifications
 │   └── dashboard/       # Grafana configs
 └── Dockerfile           # Containerization
+```
 
 ## Configuration ⚙️
 
